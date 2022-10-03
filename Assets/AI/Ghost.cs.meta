@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3cb0fba79d49dfc459a12330a26449fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fleeMaterial: {fileID: 2100000, guid: 99994947493822346b1c5627de9323ed, type: 2}
+  - respawnMaterial: {fileID: 2100000, guid: d0604e22e6d4eb34eb2b03f1152f65e9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
